@@ -1,5 +1,4 @@
-﻿# Atskaites ID: RVT-4417
-$warningLimitGB = 10
+﻿$warningLimitGB = 10
 $disks = Get-CimInstance -ClassName Win32_LogicalDisk -Filter "DriveType=3"
 
 foreach ($disk in $disks) {
