@@ -1,1 +1,1 @@
-PALAIDI skripts.ps1 SAVĀ DATORĀ un aizstāj šo norādi ar reālo izvadi, ko skripts izvada.
+Disks: C:; Kopējais izmērs (GB): 1861.98; Brīvā vieta (GB): 100.82; Brīdinājuma robeža (GB): 10
