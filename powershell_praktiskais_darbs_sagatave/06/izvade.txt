@@ -1,1 +1,2 @@
-Palaid skriptu, lai izveidotu draiveri.csv. Šeit saglabā izvadi.txt un pārliecinies, ka CSV ir pievienots repozitorijam.
+CSV failā ierakstīto draiveru rindu skaits: 16
+CSV fails saglabāts: C:\Users\tinxy\Desktop\draiveri.csv
