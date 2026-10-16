@@ -1,1 +1,4 @@
-Palaid skriptu, lai izveidotu adapteri.csv. Šeit saglabā izvadi.txt.
+Nosaukums: Беспроводная сеть; Statuss: Up; MAC adrese: 10-68-38-8D-38-39; Savienojuma ātrums: 866.7 Mbps
+Nosaukums: Ethernet; Statuss: Disconnected; MAC adrese: C8-7F-54-C6-3A-58; Savienojuma ātrums: 0 bps
+Tīkla adapteru skaits: 2
+CSV fails saglabāts: C:\Users\tinxy\Desktop\adapteri.csv
