@@ -1,0 +1,1 @@
+Palaid skriptu, lai izveidotu draiveri.csv. Šeit saglabā izvadi.txt un pārliecinies, ka CSV ir pievienots repozitorijam.

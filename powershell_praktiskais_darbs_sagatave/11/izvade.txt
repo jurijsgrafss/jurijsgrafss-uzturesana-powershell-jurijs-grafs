@@ -1,0 +1,1 @@
+Palaid skriptu, lai izveidotu adapteri.csv. Šeit saglabā izvadi.txt.

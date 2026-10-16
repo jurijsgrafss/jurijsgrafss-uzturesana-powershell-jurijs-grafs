@@ -1,0 +1,1 @@
+Palaid 04/skripts.ps1 ar -WhatIf un aizstāj šo norādi ar reālo izvadi.

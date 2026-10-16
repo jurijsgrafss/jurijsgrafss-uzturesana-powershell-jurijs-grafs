@@ -1,0 +1,1 @@
+Pēc palaišanas ar -WhatIf saglabā rezultātu failā whatif.txt; pēc tam palaid bez -WhatIf un saglabā izvadi.txt.
