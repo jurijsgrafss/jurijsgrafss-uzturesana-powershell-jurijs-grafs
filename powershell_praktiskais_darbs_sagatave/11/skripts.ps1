@@ -1,8 +1,7 @@
-﻿# Atskaites ID: RVT-4417
-$adapters = @(Get-NetAdapter -ErrorAction Stop |
+$adapters = @(Get-NetAdapter -ErrorAction Stop | 
     Select-Object Name, Status, MacAddress, LinkSpeed)
 
-$csvPath = Join-Path $PSScriptRoot 'adapteri.csv'
+$csvPath = "C:\Users\tinxy\Desktop\adapteri.csv"
 $adapters | Export-Csv -Path $csvPath -NoTypeInformation -Encoding UTF8
 
 foreach ($adapter in $adapters) {
