@@ -1,4 +1,3 @@
-﻿# Atskaites ID: RVT-4417
 $runningCount = 0
 $stoppedCount = 0
 $allServices = Get-Service
