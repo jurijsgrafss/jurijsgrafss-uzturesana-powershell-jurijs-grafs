@@ -1,4 +1,3 @@
-﻿# Atskaites ID: RVT-4417
 $startTime = (Get-Date).AddHours(-48)
 
 try {
