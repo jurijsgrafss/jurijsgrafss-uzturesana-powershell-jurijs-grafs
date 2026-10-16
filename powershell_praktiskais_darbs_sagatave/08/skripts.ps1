@@ -1,5 +1,4 @@
-﻿# Atskaites ID: RVT-4417
-$serviceName = 'Spooler'
+﻿$serviceName = 'Spooler'
 
 $methodOne = Measure-Command {
     $resultOne = Get-Service -Name $serviceName -ErrorAction Stop
