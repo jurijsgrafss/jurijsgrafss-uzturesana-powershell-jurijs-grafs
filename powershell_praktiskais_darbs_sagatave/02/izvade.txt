@@ -1,1 +1,10 @@
-PALAIDI skripts.ps1 SAVĀ DATORĀ un aizstāj šo norādi ar reālo izvadi, ko skripts izvada.
+Nosaukums: chrome; Id: 32648; Atmiņa (MB): 253,3
+Nosaukums: chrome; Id: 2816; Atmiņa (MB): 316,0
+Nosaukums: MsMpEng; Id: 4744; Atmiņa (MB): 316,4
+Nosaukums: chrome; Id: 22456; Atmiņa (MB): 324,2
+Nosaukums: explorer; Id: 10440; Atmiņa (MB): 384,1
+Nosaukums: chrome; Id: 32556; Atmiņa (MB): 384,1
+Nosaukums: chrome; Id: 30172; Atmiņa (MB): 483,8
+Nosaukums: chrome; Id: 18116; Atmiņa (MB): 612,4
+Nosaukums: chrome; Id: 31520; Atmiņa (MB): 702,0
+Nosaukums: Discord; Id: 14604; Atmiņa (MB): 790,1
