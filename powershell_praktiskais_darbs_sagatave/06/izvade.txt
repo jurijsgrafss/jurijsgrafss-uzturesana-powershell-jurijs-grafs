@@ -1,2 +1,0 @@
-CSV failā ierakstīto draiveru rindu skaits: 16
-CSV fails saglabāts: C:\Users\tinxy\Desktop\draiveri.csv

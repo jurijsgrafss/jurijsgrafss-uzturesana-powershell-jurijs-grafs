@@ -1,7 +1,0 @@
-KOPSAVILKUMS
-Datora nosaukums: TINXY
-Procesu skaits: 250
-Darbojošos servisu skaits: 114
-Apturētu servisu skaits: 182
-Sistēmas žurnāla kļūdu skaits pēdējās 48 stundās: 56
-Disks C: brīvā vieta (GB): 100.82

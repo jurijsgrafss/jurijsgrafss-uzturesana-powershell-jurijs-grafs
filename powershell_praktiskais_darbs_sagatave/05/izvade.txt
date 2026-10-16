@@ -1,3 +1,0 @@
-Kļūdu ierakstu skaits sistēmas žurnālā pēdējās 48 stundās: 56
-Visbiežākais avots: Microsoft-Windows-DistributedCOM
-Šī avota ierakstu skaits: 27

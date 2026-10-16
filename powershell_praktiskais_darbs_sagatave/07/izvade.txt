@@ -1,1 +1,0 @@
-Disks: C:; Kopējais izmērs (GB): 1861.98; Brīvā vieta (GB): 100.82; Brīdinājuma robeža (GB): 10
