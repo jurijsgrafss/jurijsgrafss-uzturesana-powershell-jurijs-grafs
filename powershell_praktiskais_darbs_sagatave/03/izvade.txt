@@ -1,1 +1,22 @@
-PALAIDI skripts.ps1 SAVĀ DATORĀ un aizstāj šo norādi ar reālo izvadi, ko skripts izvada.
+PS C:\Users\tinxy> $runningCount = 0
+PS C:\Users\tinxy> $stoppedCount = 0
+PS C:\Users\tinxy> $allServices = Get-Service
+PS C:\Users\tinxy>
+PS C:\Users\tinxy> foreach ($service in $allServices) {
+>>     if ($service.Status -eq 'Running') {
+>>         $runningCount++
+>>     }
+>>     elseif ($service.Status -eq 'Stopped') {
+>>         $stoppedCount++
+>>     }
+>> }
+PS C:\Users\tinxy>
+PS C:\Users\tinxy> $sum = $runningCount + $stoppedCount
+PS C:\Users\tinxy> Write-Output "Darbojošos servisu skaits: $runningCount"
+Darbojošos servisu skaits: 114
+PS C:\Users\tinxy> Write-Output "Apturētu servisu skaits: $stoppedCount"
+Apturētu servisu skaits: 182
+PS C:\Users\tinxy> Write-Output "Abu skaitu summa: $sum"
+Abu skaitu summa: 296
+PS C:\Users\tinxy> Write-Output "Kopējais visu servisu skaits: $($allServices.Count)"
+Kopējais visu servisu skaits: 296
