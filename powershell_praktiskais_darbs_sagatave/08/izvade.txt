@@ -1,1 +1,4 @@
-PALAIDI skripts.ps1 SAVĀ DATORĀ un aizstāj šo norādi ar reālo izvadi, ko skripts izvada.
+1. veids (Get-Service) atrada: Spooler, statuss: Running
+1. veida izpildes laiks (ms): 9,851
+2. veids (Get-CimInstance) atrada: Spooler, statuss: Running
+2. veida izpildes laiks (ms): 235,540
