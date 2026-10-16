@@ -1,5 +1,3 @@
-# SKAIDROJUMS
-
 # SKAIDROJUMS.md
 
 ### 1. Sistēmas apraksts
