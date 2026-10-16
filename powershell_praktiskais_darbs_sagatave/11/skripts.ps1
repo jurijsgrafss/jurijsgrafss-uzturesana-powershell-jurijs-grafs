@@ -1,9 +1,7 @@
 $adapters = @(Get-NetAdapter -ErrorAction Stop | 
     Select-Object Name, Status, MacAddress, LinkSpeed)
-
-$csvPath = "C:\Users\tinxy\Desktop\adapteri.csv"
+$csvPath = Join-Path $PSScriptRoot 'adapteri.csv'
 $adapters | Export-Csv -Path $csvPath -NoTypeInformation -Encoding UTF8
-
 foreach ($adapter in $adapters) {
     Write-Output "Nosaukums: $($adapter.Name); Statuss: $($adapter.Status); MAC adrese: $($adapter.MacAddress); Savienojuma ātrums: $($adapter.LinkSpeed)"
 }
