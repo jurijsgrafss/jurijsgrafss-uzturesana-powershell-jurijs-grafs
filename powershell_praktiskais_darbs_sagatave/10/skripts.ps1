@@ -1,4 +1,3 @@
-﻿# Atskaites ID: RVT-4417
 $computer = Get-CimInstance -ClassName Win32_ComputerSystem
 $operatingSystem = Get-CimInstance -ClassName Win32_OperatingSystem
 $processCount = (Get-Process).Count
